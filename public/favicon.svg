@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <title>TrueFans CONNECT Logo</title>
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle fill="#0284C7" cx="16" cy="16" r="16"></circle>
+        <path d="M16,8 C18.7614,8 21,10.2386 21,13 C21,15.7614 18.7614,18 16,18 C13.2386,18 11,15.7614 11,13 C11,10.2386 13.2386,8 16,8 Z M16,20 C21.5228,20 26,22.2386 26,25 L26,26 L6,26 L6,25 C6,22.2386 10.4772,20 16,20 Z" fill="#FFFFFF"></path>
+    </g>
+</svg>
